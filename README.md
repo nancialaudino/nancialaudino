@@ -1,4 +1,6 @@
-👋 Hello and welcome to my GitHub!  
+👋 Hello and welcome to my GitHub!
+
+
 I'm **Nancia Laudino**, a software developer passionate about creating practical, maintainable, and professional solutions.  
 Currently looking for a **work-study (alternance) opportunity** in software development (3 weeks in company / 2 weeks on campus).
 
